@@ -1,0 +1,207 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {732, 580}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* CAAnimationForPathAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {732, 580}}";
+			sepNavSelRange = "{80, 5}";
+			sepNavVisRange = "{0, 405}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* CAAnimationForPathAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {732, 1008}}";
+			sepNavSelRange = "{1860, 0}";
+			sepNavVisRange = "{0, 1156}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* CAAnimationForPath_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {732, 580}}";
+			sepNavSelRange = "{115, 0}";
+			sepNavVisRange = "{0, 167}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A7F094A7139373DE00D8A184 /* CAAnimationForPath */;
+		activeTarget = 8D1107260486CEB800E47090 /* CAAnimationForPath */;
+		codeSenseManager = A7F094C0139373F400D8A184 /* Code sense */;
+		executables = (
+			A7F094A7139373DE00D8A184 /* CAAnimationForPath */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					554,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 328590429;
+			PBXWorkspaceStateSaveDate = 328590429;
+		};
+		perUserProjectItems = {
+			A7BFDF841395E45100948020 /* PBXTextBookmark */ = A7BFDF841395E45100948020 /* PBXTextBookmark */;
+			A7BFDF9B1395E4B400948020 /* PBXTextBookmark */ = A7BFDF9B1395E4B400948020 /* PBXTextBookmark */;
+			A7BFDF9C1395E4B400948020 /* PBXTextBookmark */ = A7BFDF9C1395E4B400948020 /* PBXTextBookmark */;
+			A7BFDF9D1395E4B400948020 /* PBXTextBookmark */ = A7BFDF9D1395E4B400948020 /* PBXTextBookmark */;
+			A7BFDF9E1395E4B400948020 /* PBXTextBookmark */ = A7BFDF9E1395E4B400948020 /* PBXTextBookmark */;
+			A7BFDFAD1395E4BC00948020 /* PlistBookmark */ = A7BFDFAD1395E4BC00948020 /* PlistBookmark */;
+			A7BFDFB01395E4C000948020 /* PlistBookmark */ = A7BFDFB01395E4C000948020 /* PlistBookmark */;
+		};
+		sourceControlManager = A7F094BF139373F400D8A184 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {732, 580}}";
+			sepNavSelRange = "{60, 0}";
+			sepNavVisRange = "{0, 250}";
+		};
+	};
+	8D1107260486CEB800E47090 /* CAAnimationForPath */ = {
+		activeExec = 0;
+		executables = (
+			A7F094A7139373DE00D8A184 /* CAAnimationForPath */,
+		);
+	};
+	A7BFDF841395E45100948020 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	A7BFDF9B1395E4B400948020 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* CAAnimationForPathAppDelegate.m */;
+		name = "CAAnimationForPathAppDelegate.m: 66";
+		rLen = 0;
+		rLoc = 1860;
+		rType = 0;
+		vrLen = 1156;
+		vrLoc = 0;
+	};
+	A7BFDF9C1395E4B400948020 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* CAAnimationForPathAppDelegate.h */;
+		name = "CAAnimationForPathAppDelegate.h: 5";
+		rLen = 5;
+		rLoc = 80;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 0;
+	};
+	A7BFDF9D1395E4B400948020 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 5";
+		rLen = 0;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 0;
+	};
+	A7BFDF9E1395E4B400948020 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* CAAnimationForPath_Prefix.pch */;
+		name = "CAAnimationForPath_Prefix.pch: 4";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 167;
+		vrLoc = 0;
+	};
+	A7BFDFAD1395E4BC00948020 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CAAnimationForPath-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/xulian/Desktop/CAAnimationForPath/CAAnimationForPath-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	A7BFDFB01395E4C000948020 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CAAnimationForPath-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/xulian/Desktop/CAAnimationForPath/CAAnimationForPath-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	A7F094A7139373DE00D8A184 /* CAAnimationForPath */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CAAnimationForPath;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A7F094BF139373F400D8A184 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A7F094C0139373F400D8A184 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
